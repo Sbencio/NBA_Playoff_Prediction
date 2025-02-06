@@ -1,0 +1,41 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Ignore execution metadata (optional)
+.jupyter/
+.local/share/jupyter/
+.colab/
+
+# Ignore datasets stored in Google Drive
+/content/drive/MyDrive/NBA Stats (1947-present)/
+
+# Ignore large dataset files
+*.csv
+*.tsv
+*.json
+*.h5
+*.pkl
+*.joblib
+*.npy
+*.npz
+*.parquet
+*.db
+*.sqlite
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Logs and temp files
+logs/
+*.log
+*.tmp
