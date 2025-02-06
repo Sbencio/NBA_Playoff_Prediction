@@ -1,0 +1,1 @@
+Jupyter Notebook containing the analysis of a dataset containing NBA teams' data to predict which, out of the current NBA teams, will make it to the playoffs by selecting and fine-tuning a Gradient Boosting Classifier model.
